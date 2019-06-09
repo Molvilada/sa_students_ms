@@ -1,0 +1,7 @@
+sa\student\service\AuthService.class
+sa\student\service\StudentService.class
+sa\student\service\LdapService.class
+sa\student\resource\AuthResource.class
+sa\student\resource\StudentResource.class
+sa\student\JAXRSConfiguration.class
+sa\student\model\Student.class
